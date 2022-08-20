@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jose-M-Chavez
 - 👀 I’m interested in software engennering. 
-- 🌱 I’m currently learning Java and Python. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Data Structures, and Algorithms. 
+- 💞️ I’m looking to collaborate on intresting Python projects. 
 - 📫 How to reach me ... josemchavez@utexas.edu
 
 <!---
