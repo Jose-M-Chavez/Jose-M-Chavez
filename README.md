@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jose-M-Chavez
-- 👀 I’m interested in software engennering. 
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Python, Data Structures, and Algorithms. 
 - 💞️ I’m looking to collaborate on intresting Python projects. 
 - 📫 How to reach me ... josemchavez@utexas.edu
